@@ -1,0 +1,13 @@
+{
+  "name": "event_management_backend_app",
+  "version": "1.0.0",
+  "description": "this is a system for organizing and managing events. It includes features like event creation, registration, ticketing, and attendee management.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
